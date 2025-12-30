@@ -1,0 +1,5 @@
+{
+  "name": "ExcelValidator - Torn Paper Edition",
+  "description": "An Excel-like spreadsheet application with robust schema validation. Features a unique 'torn paper' visual effect to reveal validation errors within the grid.",
+  "requestFramePermissions": []
+}
